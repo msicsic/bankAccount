@@ -1,0 +1,13 @@
+== Business terms and their meaning ==
+
+Client: a person who registered to a a bank account
+
+Account: a bank account belonging to a BankClient
+
+Operation: a Deposit or Withdrawal
+
+Deposit: a Client add money to his Account
+
+Withdrawal: a Client withdraw money from his Account. Can fail (do nothing) if not enough money is present
+
+Statement: log of a Transaction (date, amount, balance, type)
